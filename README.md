@@ -1,4 +1,6 @@
-<h1 align="center">Hi there,  I'm Christoffer Sylve 👋</h1>
+<img src="assets/Beige Modern Elegant Personal LinkedIn Banner.png"
+     alt="Banner"
+     style="float: left; margin-right: 10px;" />
 
 ###
 
