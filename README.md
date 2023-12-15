@@ -1,6 +1,6 @@
 <img src="assets/Beige Modern Elegant Personal LinkedIn Banner.png"
      alt="Banner"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 30px;" />
 
 ###
 
